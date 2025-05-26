@@ -67,7 +67,12 @@ mkdir uploads
 MONGO_URI=<your-mongodb-uri>
 ```
 
-**5️⃣ Run the app:**
+**5️⃣ Start MongoDB server in your command prompt (Must have MongoDB Server (Community or Enterprise)):**
+```bash
+mongod
+```
+
+**6️⃣ Run the app:**
 ```bash
 npm start
 ```
