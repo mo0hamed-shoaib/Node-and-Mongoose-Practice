@@ -30,7 +30,7 @@ A practice project for building a RESTful API using **Node.js**, **Express**, **
 │   └── (uploaded images)
 ├── .gitignore
 ├── package.json
-└── server.js
+└── index.js
 ```
 
 ---
@@ -118,7 +118,7 @@ Body:
 
 ## 🛠️ How the Project Works
 
-### 1. Server Setup (`server.js`)
+### 1. Server Setup (`index.js`)
 - Express server is created and middleware is applied:
   - **Morgan** logs all incoming HTTP requests for easier debugging.
   - **RequestLogger** is a custom middleware that logs requests.
