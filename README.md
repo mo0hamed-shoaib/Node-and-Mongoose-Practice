@@ -166,6 +166,48 @@ Body:
 
 ---
 
+## 📸 API Screenshots
+
+### 📖 Getting All Books
+![GET All Books](screenshots/GET%20All%20Books.png)
+
+### 🔍 Getting a Single Book
+**Success Response:**
+![GET Book Success](screenshots/GET%20A%20Book%20by%20ID%20Success.png)
+
+**Not Found Response:**
+![GET Book Fail](screenshots/GET%20A%20Book%20by%20ID%20Fail.png)
+
+### ➕ Creating a New Book
+**Form Setup Example:**
+![POST Form Example](screenshots/POST%20Form%20Example.png)
+
+**Without Cover Image:**
+![POST Without Cover](screenshots/POST%20Form%20Without%20Cover%20Image.png)
+![POST Response No Cover](screenshots/POST%20Form%20Response%20No%20Cover%20Image.png)
+
+**With Cover Image:**
+![POST Response With Cover](screenshots/POST%20Form%20Response%20With%20Cover%20Image.png)
+
+### ✏️ Updating a Book
+**Before Update:**
+![PUT Before](screenshots/PUT%20Before%20Updating%20A%20Book%20by%20ID.png)
+
+**After Update:**
+![PUT After](screenshots/PUT%20After%20Updating%20A%20Book%20by%20ID.png)
+
+### ❌ Deleting a Book
+**Success Response:**
+![DELETE Success](screenshots/DELETE%20A%20Book%20by%20ID%20Success.png)
+
+**Not Found Response:**
+![DELETE Fail](screenshots/DELETE%20A%20Book%20by%20ID%20Fail.png)
+
+### 🖥️ Terminal Output
+![Terminal Output](screenshots/Terminal%20Output.png)
+
+---
+
 ## 📝 License
 This project is for educational purposes. Feel free to fork and contribute! 🚀
 
